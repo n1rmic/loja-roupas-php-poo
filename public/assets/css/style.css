@@ -239,7 +239,7 @@ label{
     flex-direction:column;
     align-items:flex-start;
   }
- 
+
    .kpis{
     grid-template-columns:repeat(2, 1fr);
   }
